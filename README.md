@@ -1,4 +1,4 @@
 # MyFirstGithubProject
-##datasciencecoursera
+## datasciencecoursera
 
 Repository for Data Science Course
